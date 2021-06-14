@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/pokemon</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ae44</objectGroupId>
+	<objectId>ae442d82-4ee5-caf8-7495-1d17a76e7bd1</objectId>
+	<file-name>ae442d82-4ee5-caf8-7495-1d17a76e7bd1.xml</file-name>
+	<internal-name>Venusaur</internal-name>
+	<title_s>Venusaur</title_s>
+	<number_s>3</number_s>
+	<height_s>2m</height_s>
+	<weight_s>100kg</weight_s>
+	<description_t>After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.</description_t>
+	<createdDate>2021-06-14T16:35:57.753Z</createdDate>
+	<createdDate_dt>2021-06-14T16:35:57.753Z</createdDate_dt>
+	<lastModifiedDate>2021-06-14T16:35:57.753Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T16:35:57.753Z</lastModifiedDate_dt>
+</component>
