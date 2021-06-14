@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/pokemon</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c255</objectGroupId>
+	<objectId>c255f4fa-7ec6-0f19-3df9-89fbc9c1db14</objectId>
+	<internal-name>Ivysaur</internal-name>
+	<title_s>Ivysaur</title_s>
+	<number_s>2</number_s>
+	<height_s>1m</height_s>
+	<weight_s>13kg</weight_s>
+	<file-name>c255f4fa-7ec6-0f19-3df9-89fbc9c1db14.xml</file-name>
+	<description_t>When the bud on its back starts swelling, a sweet aroma wafts to indicate the flowers coming bloom.</description_t>
+	<createdDate>2021-06-14T16:34:53.399Z</createdDate>
+	<createdDate_dt>2021-06-14T16:34:53.399Z</createdDate_dt>
+	<lastModifiedDate>2021-06-14T16:34:53.399Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T16:34:53.399Z</lastModifiedDate_dt>
+</component>
