@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/pokemon</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7874</objectGroupId>
+	<objectId>7874c58e-b9e9-8713-a51e-0211e9b7b951</objectId>
+	<file-name>7874c58e-b9e9-8713-a51e-0211e9b7b951.xml</file-name>
+	<description_t>The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.</description_t>
+	<internal-name>Charmander</internal-name>
+	<title_s>Charmander</title_s>
+	<number_s>4</number_s>
+	<height_s>0.6m</height_s>
+	<weight_s>8.5kg</weight_s>
+	<createdDate>2021-06-14T16:36:45.872Z</createdDate>
+	<createdDate_dt>2021-06-14T16:36:45.872Z</createdDate_dt>
+	<lastModifiedDate>2021-06-14T16:36:45.872Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T16:36:45.872Z</lastModifiedDate_dt>
+</component>
