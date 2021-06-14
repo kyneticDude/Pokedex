@@ -8,8 +8,8 @@
         <base href="/" />
 
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" type="image/x-icon" href="static-assets/app/assets/images/icons/icon-72x72.png" />
-        <link rel="manifest" href="manifest.webmanifest" />
+        <link rel="icon" type="image/x-icon" href="./static-assets/app/assets/images/icons/icon-72x72.png" />
+        <link rel="manifest" href="./static-assets/app/manifest.webmanifest" />
         <meta name="theme-color" content="#ef5350" />
         <meta name="description" content="A Open Source Pokédex built with Angular" />
         <meta name="keywords" content="Angular, Pokémon, Pokédex, JavaScript" />
@@ -174,16 +174,16 @@
                 animation: spin 4s linear infinite;
             }
         </style>
-        <link rel="stylesheet" href="styles.3f4675ad5afd577975bd.css" media="print" onload="this.media='all'" />
-        <noscript><link rel="stylesheet" href="styles.3f4675ad5afd577975bd.css" /></noscript>
+        <link rel="stylesheet" href="./static-assets/app/styles.3f4675ad5afd577975bd.css" media="print" onload="this.media='all'" />
+        <noscript><link rel="stylesheet" href="./static-assets/app/styles.3f4675ad5afd577975bd.css" /></noscript>
     </head>
     <body>
         <app-root>
             <div class="pokeball spin"></div>
         </app-root>
         <noscript>Please enable JavaScript to use NG-Pokédex</noscript>
-        <script src="runtime.168b2a8cfe3616a02dec.js" defer></script>
-        <script src="polyfills.a50171f6cc1ffb984a9b.js" defer></script>
-        <script src="main.0ce4a2420fe439d28848.js" defer></script>
+        <script src="./static-assets/app/runtime.168b2a8cfe3616a02dec.js" defer></script>
+        <script src="./static-assets/app/polyfills.a50171f6cc1ffb984a9b.js" defer></script>
+        <script src="./static-assets/app/main.0ce4a2420fe439d28848.js" defer></script>
     </body>
 </html>
