@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/pokemon</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c6a0</objectGroupId>
+	<objectId>c6a07075-09d0-4028-e22d-efe99caec188</objectId>
+	<description_t>For some time after its birth, it grows by gaining nourishment from the seed on its back.</description_t>
+	<file-name>c6a07075-09d0-4028-e22d-efe99caec188.xml</file-name>
+	<internal-name>Bulbasaur</internal-name>
+	<title_s>Bulbasaur</title_s>
+	<number_s>1</number_s>
+	<height_s>0.7</height_s>
+	<weight_s>6.9</weight_s>
+	<createdDate>2021-06-14T16:32:59.592Z</createdDate>
+	<createdDate_dt>2021-06-14T16:32:59.592Z</createdDate_dt>
+	<lastModifiedDate>2021-06-14T16:32:59.592Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T16:32:59.592Z</lastModifiedDate_dt>
+</component>
