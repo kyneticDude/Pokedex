@@ -15,6 +15,11 @@
 	<description_t>When the bud on its back starts swelling, a sweet aroma wafts to indicate the flowers coming bloom.</description_t>
 	<createdDate>2021-06-14T16:34:53.399Z</createdDate>
 	<createdDate_dt>2021-06-14T16:34:53.399Z</createdDate_dt>
-	<lastModifiedDate>2021-06-14T16:34:53.399Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-14T16:34:53.399Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-14T16:39:42.057Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T16:39:42.057Z</lastModifiedDate_dt>
+	<attacks_o>	<item>	<key>grass</key>
+	<value>Grass</value>
+	</item>	<item>	<key>poison</key>
+	<value>Poison</value>
+	</item></attacks_o>
 </component>
