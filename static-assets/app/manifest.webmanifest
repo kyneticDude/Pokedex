@@ -4,27 +4,27 @@
   "theme_color": "#ef5350",
   "background_color": "#ef5350",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+  "scope": "./static-assets/app",
+  "start_url": "./static-assets/app",
   "description":"A fast progressive web app Pokemon Pokédex",
   "icons": [
     {
-      "src": "./static-assets/app/assets/images/icons/icon-72x72.png",
+      "src": "assets/images/icons/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "./static-assets/app/assets/images/icons/icon-96x96.png",
+      "src": "assets/images/icons/icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "./static-assets/app/assets/images/icons/icon-128x128.png",
+      "src": "assets/images/icons/icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "./static-assets/app/assets/images/icons/icon-144x144.png",
+      "src": "assets/images/icons/icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
