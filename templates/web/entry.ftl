@@ -5,7 +5,7 @@
     <head>
         <meta charset="utf-8" />
         <title>NG-Pokédex</title>
-        <base href="/" />
+        <base href="./static-assets/app/" />
 
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" type="image/x-icon" href="./static-assets/app/assets/images/icons/icon-72x72.png" />
