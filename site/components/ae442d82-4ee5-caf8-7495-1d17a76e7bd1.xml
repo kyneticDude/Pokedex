@@ -15,6 +15,11 @@
 	<description_t>After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.</description_t>
 	<createdDate>2021-06-14T16:35:57.753Z</createdDate>
 	<createdDate_dt>2021-06-14T16:35:57.753Z</createdDate_dt>
-	<lastModifiedDate>2021-06-14T16:35:57.753Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-14T16:35:57.753Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-14T16:40:08.382Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T16:40:08.382Z</lastModifiedDate_dt>
+	<attacks_o>	<item>	<key>grass</key>
+	<value>Grass</value>
+	</item>	<item>	<key>poison</key>
+	<value>Poison</value>
+	</item></attacks_o>
 </component>
