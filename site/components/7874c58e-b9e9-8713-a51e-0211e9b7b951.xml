@@ -15,6 +15,9 @@
 	<weight_s>8.5kg</weight_s>
 	<createdDate>2021-06-14T16:36:45.872Z</createdDate>
 	<createdDate_dt>2021-06-14T16:36:45.872Z</createdDate_dt>
-	<lastModifiedDate>2021-06-14T16:36:45.872Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-14T16:36:45.872Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-14T16:40:29.228Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T16:40:29.228Z</lastModifiedDate_dt>
+	<attacks_o>	<item>	<key>fire</key>
+	<value>Fire</value>
+	</item></attacks_o>
 </component>
