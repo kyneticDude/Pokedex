@@ -15,6 +15,11 @@
 	<weight_s>6.9</weight_s>
 	<createdDate>2021-06-14T16:32:59.592Z</createdDate>
 	<createdDate_dt>2021-06-14T16:32:59.592Z</createdDate_dt>
-	<lastModifiedDate>2021-06-14T16:32:59.592Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-14T16:32:59.592Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-14T16:39:19.494Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T16:39:19.494Z</lastModifiedDate_dt>
+	<attacks_o>	<item>	<key>grass</key>
+	<value>Grass</value>
+	</item>	<item>	<key>poison</key>
+	<value>Poison</value>
+	</item></attacks_o>
 </component>
